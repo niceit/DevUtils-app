@@ -1,13 +1,18 @@
+<h3>🚀 Official Forked From</h3>
+<a href="https://github.com/DevUtilsApp/DevUtils-app"> https://github.com/DevUtilsApp/DevUtils-app </a>
+
+<h2>🚀 Here could could browse the <strong><a href="https://github.com/niceit/DevUtils-app/releases">Released Version and Download for Free </a></strong></h3>
+<br/>
+<strong style="color: red">Please purchase the origin version to support the author.</strong>
+
 <h1 align="center">Dev<a href="https://github.com/DevUtilsApp/DevUtils-app#">Utils</a>.app</h1>
 <h3 align="center">Developer Utilities for macOS</h3>
 
 <p align="center">
   <img src="https://devutils.app/assets/screenshots/dark/jsonformatter.png">
   <br/>
-  <a href="https://devutils.app/">🚀 &nbsp; Download</a> | <a href="https://devutils.app/demo">🎬 &nbsp; Demo & Screenshots</a> | <a href="https://github.com/DevUtilsApp/DevUtils-app/tree/master/TINOBHNYWE">📝 &nbsp; View source</a> | <a href="https://twitter.com/devutils_app">📣 &nbsp; Follow on Twitter</a>
+  <a href="https://github.com/niceit/DevUtils-app/releases">🚀 &nbsp; Download</a> | <a href="https://devutils.app/demo">🎬 &nbsp; Demo & Screenshots</a> | <a href="https://github.com/DevUtilsApp/DevUtils-app/tree/master/TINOBHNYWE">📝 &nbsp; View source</a> | <a href="https://twitter.com/devutils_app">📣 &nbsp; Follow on Twitter</a>
   <br/>
-  <br/>
-  <a href="https://apps.apple.com/us/app/id1533756032"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" /></a> <a href="https://go.setapp.com/stp307?refAppID=445"><img src="https://developer.setapp.com/setapp-button/setapp.b6aff864.svg" /></a>
   
 </p>
 
