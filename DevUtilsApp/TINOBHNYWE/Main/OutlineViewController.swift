@@ -46,7 +46,7 @@ class OutlineViewController: NSViewController, NSOutlineViewDataSource, NSOutlin
     outlineScrollView.backgroundColor = NSColor.clear
     outlineView.backgroundColor = NSColor.clear
     versionLabel.stringValue = """
-    Developer Utilities for macOS \(AppState.getAppVersion())
+    Official Forked - Developer Utilities for macOS \(AppState.getAppVersion())
     https://DevUtils.app
     """
     outlineView.action = #selector(onItemClicked)
